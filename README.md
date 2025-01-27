@@ -1,7 +1,7 @@
 # OSINT
 OSINT Challenge for NULL Event
 
-For some reason completely incomprehensible to mankind, you have become sworn enemies of one of the NULLCTF organizers, . In your efforts to defeat him, you have decided to go back to the origins of the one who crawls at night to learn more about him. This is what you know so far:
+For some reason completely incomprehensible to mankind, you have become a sworn enemy to the NULLCTF's organizers. In your efforts to defeat him, you have decided to go back to the origins of the one who crawls at night to learn more about him. This is what you know so far:
 
 - Given his deep German roots, he's affectionately dubbed "Kurt," a nod to his heritage that's as strong as his roots..
 - There was a website that he adopted and fostered for about 7 years, based and created on Marvel Universe, created by his disciples who are now known as his fans that has become quite large
